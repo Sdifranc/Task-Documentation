@@ -2,6 +2,6 @@
 
 * [Task Board](README.md)
   * [Introduction](task-board/introduction/README.md)
-    * [Task Board](task-board/introduction/task-board.md)
+    * [Task Board test](task-board/introduction/task-board-test.md)
     * [Task](task-board/introduction/task.md)
     * [Teams](task-board/introduction/teams.md)
