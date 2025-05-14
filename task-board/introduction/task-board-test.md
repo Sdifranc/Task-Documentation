@@ -1,8 +1,12 @@
-# Task Board
+# Task Board test
 
 
 
-Thanks to the Task Board, task management becomes more transparent and accessible. Every user can have an overview of their responsibilities and contribute to work in a coordinated and accountable manner, supported by tools designed to simplify daily operations.
+Thanks to the Task Board, task management becomes more transparent and accessible. Every user can have an overview of their responsibilities and contribute to work in a coordinated and accountable manner, supported by tools designed to simplify daily operations.&#x20;
+
+questo documento è stato aggiornato&#x20;
+
+
 
 * Attach documents or link to reports and platform pages
 * Interact with other users through comments and mentions
