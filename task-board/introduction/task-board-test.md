@@ -6,7 +6,7 @@ Thanks to the Task Board, task management becomes more transparent and accessibl
 
 questo documento è stato aggiornato&#x20;
 
-
+questo sezione è stata aggiunta editando il testo da GIThub &#x20;
 
 * Attach documents or link to reports and platform pages
 * Interact with other users through comments and mentions
