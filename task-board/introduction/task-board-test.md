@@ -10,10 +10,16 @@ questo sezione è stata aggiunta editando il testo da GIThub &#x20;
 
 <!-- Questo è un commento invisibile nel file Markdown -->
 
+```md
+[COMMENTO] Questa sezione va rivista prima del rilascio.
+
+
 * Attach documents or link to reports and platform pages
 * Interact with other users through comments and mentions
 * Track the progress of assigned or shared tasks
 * Create new tasks quickly and intuitively
+
+```
 
 The Task Board is not just an organizational view; it is an active workspace where you can:
 
